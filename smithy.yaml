@@ -1,1 +1,4 @@
+project: appengine
+language: python
+
 script: exit 0
