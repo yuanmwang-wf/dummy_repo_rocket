@@ -1,1 +1,3 @@
+language: yaml
 
+script: exit 0
